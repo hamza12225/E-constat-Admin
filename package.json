@@ -1,0 +1,55 @@
+{
+  "name": "lamaadmin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^2.0.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@material-ui/data-grid": "^4.0.0-alpha.29",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/material": "^5.11.8",
+    "@react-google-maps/api": "^2.18.1",
+    "@react-pdf/renderer": "^3.1.6",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "firebase": "^9.17.1",
+    "firebase-tools": "^11.22.0",
+    "google-map-react": "^2.2.0",
+    "install": "^0.13.0",
+    "qrcode": "^1.5.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-pdf": "^6.2.2",
+    "react-qr-code": "^2.0.11",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "recharts": "^2.0.9",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
